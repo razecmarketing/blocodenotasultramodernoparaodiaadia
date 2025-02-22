@@ -43,6 +43,8 @@ O **Bloco de Notas Inteligente** é uma aplicação web responsiva e elegante, p
 - Sincronização com **nuvem/AWS** para acesso remoto das notas.
 - Implementação de um **editor markdown** para notas mais sofisticadas.
 
+- VISITE A PÁGINA PRONTA E FUNCIONANDO PARA VOCÊ APROVEITAR! https://blocodenotasultramodernoeinteligente.netlify.app/
+
 ---
 
 ### 💾 Commit de Impacto:
