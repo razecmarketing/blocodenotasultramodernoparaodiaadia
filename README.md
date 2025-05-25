@@ -45,9 +45,5 @@ O **Bloco de Notas Inteligente** é uma aplicação web responsiva e elegante, p
 
 - VISITE A PÁGINA PRONTA E FUNCIONANDO PARA VOCÊ APROVEITAR! https://blocodenotasultramodernoeinteligente.netlify.app/
 
----
 
-### 💾 Commit de Impacto:
-
-> **"🔥 Reinventando a produtividade: Bloco de Notas Inteligente agora com design responsivo e funcionalidades dinâmicas! 🚀"**
 
