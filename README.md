@@ -1,29 +1,29 @@
-# Bloco de Notas Inteligente 📝🚀
+# Bloco de Notas Inteligente 
 
 ## Visão Geral
 
 O **Bloco de Notas Inteligente** é uma aplicação web responsiva e elegante, projetada para aumentar a produtividade de usuários que precisam de uma organização eficiente. Com uma interface moderna alimentada pelo **TailwindCSS** e uma experiência otimizada para dispositivos móveis, esta aplicação eleva a simplicidade dos blocos de notas a um novo patamar.
 
-## Tecnologias Utilizadas 🛠️
+## Tecnologias Utilizadas 
 
 - **HTML5 & CSS3**: Estrutura semântica e estilização responsiva.
 - **TailwindCSS**: Framework de estilização utilitário que proporciona design moderno e eficiente.
 - **JavaScript (ES6+)**: Funcionalidades dinâmicas e interação com o usuário.
 - **PWA (Progressive Web App)**: Manifest integrado para instalação e experiência offline.
 
-## Recursos ⭐
+## Recursos 
 
-✅ **Relógio Digital Estilizado**: Um relógio dinâmico inspirado no design de marca Rolex, conferindo sofisticação.
+ **Relógio Digital Estilizado**: Um relógio dinâmico inspirado no design de marca Rolex, conferindo sofisticação.
 
-✅ **Sistema de Notas Inteligente**: Interface intuitiva para criar, visualizar e baixar notas com apenas um clique.
+**Sistema de Notas Inteligente**: Interface intuitiva para criar, visualizar e baixar notas com apenas um clique.
 
-✅ **Background Dinâmico**: Elementos animados como estrelas, lua/sol e folhas, proporcionando uma experiência imersiva.
+**Background Dinâmico**: Elementos animados como estrelas, lua/sol e folhas, proporcionando uma experiência imersiva.
 
-✅ **Modo Noturno e Personalização**: Seletor de cores para personalizar a interface conforme a preferência do usuário.
+**Modo Noturno e Personalização**: Seletor de cores para personalizar a interface conforme a preferência do usuário.
 
-✅ **Design Responsivo**: Adaptado para funcionar perfeitamente em dispositivos móveis e desktops.
+**Design Responsivo**: Adaptado para funcionar perfeitamente em dispositivos móveis e desktops.
 
-## Instalação e Uso 🚀
+## Instalação e Uso 
 
 1. Clone o repositório:
    ```sh
